@@ -2,7 +2,7 @@
 
 ## Data Science Kurse
 
-+ [Pedro Domingos](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) | Interessantes Paper
++ [Pedro Domingos](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) | A Few Useful Things to Know about Machine Learning
 + [Udacity](https://eu.udacity.com/course/intro-to-machine-learning--ud120) | Intro to Machine Learning Course
 + [DanB](https://www.kaggle.com/dansbecker/learning-materials-on-kaggle) | ML Kurs eines Kaggle Nutzers
 + [Deep Learning](http://forums.fast.ai/t/welcome-to-part-1-v2/5787?source_topic_id=8319):
@@ -26,8 +26,7 @@
 [10](https://www.youtube.com/watch?v=37sFIak42Sc),
 [11](https://www.youtube.com/watch?v=XJ_waZlJU8g),
 [12](https://www.youtube.com/watch?v=5_xFdhfUnvQ)
-
-[Mystery Link](http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf)
++ [Mystery Link](http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf)
 
 ## Machine Learning Schritte
 
@@ -43,9 +42,9 @@
 + Einflussanalyse der Parameter
 + Präsentation der Resultate
 
+## Resources
 
-## Libraries
-
+### Libraries
 + [pandas](https://pandas.pydata.org/) | Tabellenverarbeitung mit Python
 + [numpy](https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.log1p.html) | Lineare Algebra
 + [scikit-learn](http://scikit-learn.org/stable/) | General-purpose ML mit Python
@@ -67,8 +66,7 @@
 ## Weiteres
 
 + [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning) | Liste mit Machine Learning Libraries
-+ Python Videos: [PyData](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w), [PyCon](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ)
-+ R Videos [useR!](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/featured)
-
-
-[Mystery link](https://www.autodeskresearch.com/publications/samestats)
++ [PyData](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
++ [PyCon](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ)
++ [useR!](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/featured) | R videos
++ [Mystery link](https://www.autodeskresearch.com/publications/samestats)
