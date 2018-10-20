@@ -35,7 +35,7 @@
 + Daten in Tabellenform bringen
 + Explorative Analyse (Data Screening)
 + Formulierung einer Hypothese
-+ Feature Engineering
++ Feature Engineering, Feature Selection
 + Erstellung eines Baseline Modells (z.B. Mittelwert Vorhersage)
 + Auswahl eines oder mehrerer ML Verfahren (z.B. Random Forest)
 + Tuning der Hyperparameter (bei Random Forest: z.B. Anzahl der Bäume)
@@ -44,7 +44,7 @@
 + Präsentation der Resultate
 
 
-## Libraries und Resourcen
+## Libraries
 
 + [pandas](https://pandas.pydata.org/) | Tabellenverarbeitung mit Python
 + [numpy](https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.log1p.html) | Lineare Algebra
@@ -54,18 +54,20 @@
   + [Evaluation of Time Series](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html)
 + [category_encoders](http://contrib.scikit-learn.org/categorical-encoding/) | Kategorischen Variablen (z.B. One-Hot Encoding)
 + [seaborn](https://seaborn.pydata.org/) | Plotting (z.B. Heatmaps für Korrelationsmatrixen)
-+ [Fuzzy Dates](https://www.youtube.com/watch?v=68ABAU_V8qI) | Talk von Youtube
 + [shap](https://github.com/slundberg/shap/) | Explaining the feature importances of Decision Trees, [reason](http://explained.ai/rf-importance/index.html)
 + [prophet](https://github.com/facebook/prophet) | Library for time series forecasting, [paper](https://peerj.com/preprints/3190.pdf)
 + [mlxtend](https://rasbt.github.io/mlxtend/user_guide/regressor/StackingRegressor/) | StackingRegressor
 + [LightGBM](https://github.com/Microsoft/LightGBM) | Gradient Boosted Decision Trees
 + [Prince](https://github.com/kormilitzin/Prince) | PCA and other means of factor analysis
 
+### Youtube
++ [Aileen Nielsen](https://www.youtube.com/watch?v=zmfe2RaX-14) Time Series Analysis 
++ [Vincent D. Warmerdam](https://www.youtube.com/watch?v=68ABAU_V8qI) | Winning with Simple, even Linear, Models
+
 ## Weiteres
 
 + [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning) | Liste mit Machine Learning Libraries
 + Python Videos: [PyData](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w), [PyCon](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ)
-  + Time Series Analysis | [link](https://www.youtube.com/watch?v=zmfe2RaX-14)
 + R Videos [useR!](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/featured)
 
 
