@@ -61,7 +61,7 @@
 + [Prince](https://github.com/kormilitzin/Prince) | PCA and other means of factor analysis
 
 ### Youtube
-+ [Aileen Nielsen](https://www.youtube.com/watch?v=zmfe2RaX-14) Time Series Analysis 
++ [Aileen Nielsen](https://www.youtube.com/watch?v=zmfe2RaX-14) | Time Series Analysis 
 + [Vincent D. Warmerdam](https://www.youtube.com/watch?v=68ABAU_V8qI) | Winning with Simple, even Linear, Models
 
 ## Weiteres
